@@ -6,7 +6,7 @@ IMBD-parsers
 * year
 * plot
 * rated
-*english,
+* english
 * country
 * writer
 * actors
